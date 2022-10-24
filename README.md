@@ -21,4 +21,4 @@ As above, this file was also programmatically downloaded.
 Each of these data sets were loaded into individual data frames (df_archive, df_predictions and df_twitter) and separately cleaned – prior to merging all of them into a single data frame and outputting this as the final, cleaned dataset - twitter-archive-enhanced.csv.
 
 ## Data wrangling steps prior to conducting analysis included:
-A total of 2 Tidiness and 15 Quality issues related to the data were identified and cleaned prior to exploring for insights.
+A total of 3 Tidiness and 9 Quality issues related to the data were identified and cleaned prior to exploring for insights.
